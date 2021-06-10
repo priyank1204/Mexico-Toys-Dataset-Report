@@ -5,10 +5,13 @@ This Report is prepared using PowerBI and here I have squeezed out most of the i
 # Dataset Details:
 This dataset contains 4 tables, in CSV format:
 
-The Products table contains the 35 products sold at Maven Toys (each record represents one product), with fields containing details about the product category, cost, and retail price
-The Stores table contains the 50 Maven Toys store locations (each record represents one store), with fields containing details about the store location, type, and date it opened
-The Sales table contains the units sold in over 800,000 sales transactions from January 2017 to October 2018 (each record represents the purchase of a specific product at a specific store on a specific date)
-The Inventory table contains over 1,500 records that represent the stock on hand of each product in each store at the current point in time (Oct 1, 2018)
+1)  The Products table contains the 35 products sold at Maven Toys (each record represents one product), with fields containing details about the product category, cost, and retail price
+
+2) The Stores table contains the 50 Maven Toys store locations (each record represents one store), with fields containing details about the store location, type, and date it opened
+
+3) The Sales table contains the units sold in over 800,000 sales transactions from January 2017 to October 2018 (each record represents the purchase of a specific product at a specific store on a specific date
+
+4) The Inventory table contains over 1,500 records that represent the stock on hand of each product in each store at the current point in time (Oct 1, 2018)
 
 ## Dashboard
 ![MAVEN TOYS CHALLENGE (1)_page-0001-min-min](https://user-images.githubusercontent.com/53222813/119810125-61b52280-bf03-11eb-9834-05b3dbc65c3e.jpg)
